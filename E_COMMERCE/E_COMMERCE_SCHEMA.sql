@@ -1,4 +1,5 @@
 -- Exported from : dbdiagram.io
+-- Language : PostgreSQL
 
 CREATE TABLE "customers" (
   "Customer_id" varchar PRIMARY KEY,
