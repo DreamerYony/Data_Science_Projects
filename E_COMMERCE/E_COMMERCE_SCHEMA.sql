@@ -1,3 +1,5 @@
+-- Exported from : dbdiagram.io
+
 CREATE TABLE "customers" (
   "Customer_id" varchar PRIMARY KEY,
   "Customer_unique_id" varchar,
