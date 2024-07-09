@@ -10,6 +10,8 @@ https://public.tableau.com/app/profile/dayeon.lee7435/viz/sellers_dashboard/Dash
 ### 🌞 이미지
 - 태블로에서 완성한 작업물입니다.
 
-![firstpage](Images/dashboard_first.png)
-![secondpage](Images/dashboard_second.png)
+![firstpage](Images/dashboard_first.png)  
+
+![secondpage](Images/dashboard_second.png)  
+
 ![thirdpage](Images/dashboard_third.png)
